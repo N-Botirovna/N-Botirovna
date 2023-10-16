@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is Nargiza and I'm a frontend developer, from Bukhara, Uzbekistan</p>
+<p align="left">My name is Nargiza and I'm a student of TUIT 3/4, from Bukhara, Uzbekistan</p>
 
 ###
 
-<h2 align="left">About me : Student of TUIT 3/4</h2>
+<h2 align="left">About me : Frontend web developer</h2>
 
 ###
 
