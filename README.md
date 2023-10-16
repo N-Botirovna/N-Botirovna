@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is Nargiza and I'm a student of TUIT 3/4, from Bukhara, Uzbekistan</p>
+<p align="left">My name is Nargiza and I'm a student of TUIT 3/4; from Bukhara, Uzbekistan</p>
 
 ###
 
